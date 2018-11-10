@@ -1,0 +1,29 @@
+{
+  "name": "ccm-todo",
+  "version": "1.0.0",
+  "description": "todo list",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CoolColdUK/ccm-todo.git"
+  },
+  "author": "Sik So",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/CoolColdUK/ccm-todo/issues"
+  },
+  "homepage": "https://github.com/CoolColdUK/ccm-todo#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "hbs": "^4.0.1"
+  },
+  "devDependencies": {
+    "expect": "^23.6.0",
+    "mocha": "^5.2.0",
+    "rewire": "^4.0.1",
+    "supertest": "^3.3.0"
+  }
+}
